@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7857143
+  lightness: 0.2346938
+  brandStrength: 0.6278195
+  brandColors:
+    - '#F4F9FF'
+    - '#07060C'
+    - '#D7B5B3'
+    - '#AC8077'
+    - '#4B2F31'
+  rhythmicContrast: 0.6932591
+typography_spectrum: 0.5161117
+name: sergiophotography
