@@ -1,0 +1,27 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: Photography for artist CDX
+datePublished: '2016-04-09T03:07:05.302Z'
+dateModified: '2016-04-09T03:04:40.243Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-09-photography-for-artist-cdx.md
+published: true
+url: photography-for-artist-cdx/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6946892a-71ac-4d83-8069-eb2bda3105ad.jpg)
+
+Photography for artist CDX
