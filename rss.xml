@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sergiophotography]]></title>
-        <description><![CDATA[sergiophotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Sergio Photography]]></title>
+        <description><![CDATA[Sergio Photography]]></description>
+        <link>https://thegrid.ai/sergiophotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:07:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 03:27:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sergiophotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6946892a-71ac-4d83-8069-eb2bda3105ad.jpg">]]></description>
-            <link>undefinedphotography-for-artist-cdx/index.html</link>
+            <link>https://thegrid.ai/sergiophotography/photography-for-artist-cdx/index.html</link>
             <guid isPermaLink="false">5aba635e-4f60-4912-a7c0-f1cc9124f5f4</guid>
-            <pubDate>Sat, 09 Apr 2016 03:07:05 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 03:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
