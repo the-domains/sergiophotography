@@ -1,7 +1,7 @@
 name: sergiophotography
 favicon: null
-layout_spectrum: 0.49557
-typography_spectrum: 0.0703
+layout_spectrum: 0.74934
+typography_spectrum: 0.26551
 title: Sergio Photography
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#404040'
   brandStrength: 0.6278195
   lightness: 0.2346938
-  saturation: 0.7857143
+  saturation: 0.5
   rhythmicContrast: 0.6932591
 purpose: []
