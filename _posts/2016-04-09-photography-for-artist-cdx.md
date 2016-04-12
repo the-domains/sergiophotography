@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Photography for artist CDX
-datePublished: '2016-04-09T03:27:09.885Z'
-dateModified: '2016-04-09T03:23:21.022Z'
+datePublished: '2016-04-12T16:23:58.365Z'
+dateModified: '2016-04-12T16:22:00.784Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-photography-for-artist-cdx.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-photography-for-artist-cdx.md
-published: true
 url: photography-for-artist-cdx/index.html
 _type: Article
 
@@ -25,5 +25,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6946892a-71ac-4d83-8069-eb2bda3105ad.jpg)
 
 Photography for artist CDX
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/289fe50b-4c3e-4cfa-9ed2-c399479755b8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e3460b4-8862-43a4-8284-89f8e3d221b6.jpg)
+![CDX](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31da5416b5f26a3f67dc36fc3967339d4573c6f4.jpg)
+![Christian Daniel X](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8da7de6a53a752698f2dc99401a0e1ecf26e888b.jpg)
